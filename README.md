@@ -12,7 +12,8 @@ This project is based on predicting the quality of wine based on the parameters
   * sulphates
   * alcohol
 
-By taking these paremeters as input the quality of th wine is predicted as 0 or 1 If its 1 when quality score  is higher than 7 else 0 when the quality score is lesser than 7
+By taking these paremeters as input the quality of th wine is predicted as 0 its bad quality or 1 good quality. 
+If its 1 when quality score  is higher than 7 else 0 when the quality score is lesser than 7
 
 ## Libraries used
   * numpy
